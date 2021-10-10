@@ -4,6 +4,8 @@ body {
 	font-size: 40px;
 }
 
+a { color: inherit; } 
+
 .text {
 	display: flex;
 	justify-content: center;
